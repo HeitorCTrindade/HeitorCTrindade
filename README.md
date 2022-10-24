@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Estudante de Desenvolvimento WebFullStack na TRYBE. Advogado e Bacharel em direito formado pela PUC-MINAS. Ténico em Tecnologia da Informação formado pelo CEFET-MG. Apaixonado por Direito e Tecnologia. Atualmente em transição de carreira como o objetivo de tormar uma pessoa desenvolvedora, estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar e a aprender, neste momento domino JavaScript, Html, Css, React, Jest e lógica de programação. Acredito que posso impactar positivimente a vida das pessoas com o meu trabalho.
+
+
+
+
