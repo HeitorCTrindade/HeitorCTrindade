@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-1b374b?style=for-the-badge&logo=MySQL)
 
 
-### Links:
+###:link: Links:
 <a href="https://www.linkedin.com/in/heitor-catarino-trindade/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-1b374b?style=for-the-badge&logo=LinkedIn)</a>
 <a href="mailto:heitor-trindade@hotmail.com">![Email](https://img.shields.io/badge/-Email-1b374b?style=for-the-badge&logo=gmail&logoColor=FF0000)</a>
 
