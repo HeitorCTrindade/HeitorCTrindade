@@ -1,6 +1,16 @@
 ### Um pouco sobre mim: :robot:
 
-<p>Estudante de Desenvolvimento WebFullStack na TRYBE. Advogado e Bacharel em direito formado pela PUC-MINAS. Ténico em Tecnologia da Informação formado pelo CEFET-MG. Apaixonado por Direito e Tecnologia. Atualmente em transição de carreira como o objetivo de tormar uma pessoa desenvolvedora, estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar e a aprender, neste momento domino JavaScript, Html, Css, React, Jest e lógica de programação. Acredito que posso impactar positivimente a vida das pessoas com o meu trabalho.</p>
+<p>Estudante de Desenvolvimento Web FullStack na TRYBE. Advogado e Bacharel em direito formado pela PUC-MINAS. Técnico em Tecnologia da Informação formado pelo CEFET-MG. 
+
+Em transição de carreira como o objetivo de tormar uma pessoa desenvolvedora, estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar e a aprender.
+
+Apaixonado Tecnologia.
+
+Neste momento, domino desenvolvimento Web FrontEnd com Metodologias Ágeis e com as stacks JavaScript, React, Redux, Html, Css, testes em Jest. 
+
+Atualmente estudando Desenvolvimento BackEnd, com as stacks Node.js, API REST, MySql, Docker, testes de integração e arquitetura MSC.
+
+Acredito que posso impactar positivimente a vida das pessoas com o meu trabalho.</p>
 
 ### 🛠 Stacks:
 ![React](https://img.shields.io/badge/-React-1b374b?style=for-the-badge&logo=React)
