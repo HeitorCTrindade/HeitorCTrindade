@@ -2,11 +2,11 @@
 
 <p>Desenvolvedor Web FullStack com conhecimento em FrontEnd e Backend certificado pela TRYBE. Advogado e Bacharel em direito formado pela PUC-MINAS. Técnico em Tecnologia da Informação formado pelo CEFET-MG. 
 
-Em transição de carreira como o objetivo de tormar uma pessoa desenvolvedorab FullStack. No momento estou finalizando o curso de Desenvolvimento Web na Trybe, uma escola que ensina a programar e a aprender, no modulo de ciências da computação.
+Em transição de carreira com o objetivo de me tormar uma pessoa desenvolvedora Web FullStack. No momento, estou finalizando o curso de Desenvolvimento Web na Trybe, uma escola que ensina a programar e a aprender, no modulo de ciências da computação.
 
 Apaixonado Tecnologia.
 
-Neste momento, sou Desenvolvedor possuo conhecimentos em FrontEnd e Backend. Conheço Metodologias Ágeis como Scrum, kambam e Devops e as stacks de frontend: JavaScript, React, Redux, Context-Api, Html, Css, testes em Jest e backend: Node.js, API REST, MySql, MongoDB, Sequelize, Docker, testes de integração e arquitetura MSC, TypeScript. Além do paradgma de POO e principios SOLID. Estudnado Python e raspagem de dados no momento.
+Atualmente, possuo conhecimentos em FrontEnd e Backend. Conheço Metodologias Ágeis como Scrum, kambam e Devops. Conheço também as stacks de frontend: JavaScript, React, Redux, Context-Api, Html, Css, testes em Jest e backend: Node.js, API REST, MySql, MongoDB, Sequelize, Docker, testes de integração e arquitetura MSC, TypeScript. Além do paradgma de POO e principios SOLID. Estudando Python e raspagem de dados no momento.
 
 Quero impactar positivimente a vida das pessoas com o meu trabalho.</p>
 
