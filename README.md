@@ -1,5 +1,7 @@
 ### Um pouco sobre mim: :robot:
 
+Atenção recrutadores, esse é um perfil em construção e está desatualizado, confira mais sobre minha jornada e experiencia no linkedin.
+
 <p>Desenvolvedor Web FullStack com conhecimento em FrontEnd e Backend certificado pela TRYBE. Advogado e Bacharel em direito formado pela PUC-MINAS. Técnico em Tecnologia da Informação formado pelo CEFET-MG. 
 
 Em transição de carreira com o objetivo de me tormar uma pessoa desenvolvedora Web FullStack. No momento, estou finalizando o curso de Desenvolvimento Web na Trybe, uma escola que ensina a programar e a aprender, no modulo de ciências da computação.
