@@ -1,14 +1,25 @@
 ### Um pouco sobre mim: :robot:
 
-Atenção recrutadores, esse é um perfil em construção e está desatualizado, confira mais sobre minha jornada e experiencia no linkedin.
+### Atenção recrutadores, esse perfil está desatualizado, confira mais sobre minha jornada e experiencia no linkedin.
 
-<p>Desenvolvedor Web FullStack com conhecimento em FrontEnd e Backend certificado pela TRYBE. Advogado e Bacharel em direito formado pela PUC-MINAS. Técnico em Tecnologia da Informação formado pelo CEFET-MG. 
+<p>Desenvolvedor Web FullStack certificado pela TRYBE. Técnico em Tecnologia da Informação formado pelo CEFET-MG. 
 
-Em transição de carreira com o objetivo de me tormar uma pessoa desenvolvedora Web FullStack. No momento, estou finalizando o curso de Desenvolvimento Web na Trybe, uma escola que ensina a programar e a aprender, no modulo de ciências da computação.
+Apaixonado por Tecnologia.
 
-Apaixonado Tecnologia.
+Sou desenvolvedor Web FullStack. Já trabalhei no Frontend com React com TypeScript/JavaScript, MicroFrontends com Module Federation, criação de Design Systems. Tenho o ATOMIC DESIGN como patern favorito. Realizei integrações com APIs REST e GraphQL, criação de componentes a partir do Figma, estilização com CSS, SASS, Styled-Components e TailWind. E, no Backend, já trabalhei com Django e Python, além de Node.Js com Express. Banco de Dados Relacionais com Azure e Postgres. Consumo de filas com RabbitMQ. Sempre com metodologias ágeis (Scrum), utilizando ferramentas como Jira e Microsoft Planner. Criação de documentação com StoryBook e Confluence. Além de versionamento de código utilizando Git Flow tanto com GitHub quanto o GitLab. Desempenhei também o papel de revisor de código e aprovador de PR’s.
 
-Atualmente, possuo conhecimentos em FrontEnd e Backend. Conheço Metodologias Ágeis como Scrum, kambam e Devops. Conheço também as stacks de frontend: JavaScript, React, Redux, Context-Api, Html, Css, testes em Jest e backend: Node.js, API REST, MySql, MongoDB, Sequelize, Docker, testes de integração e arquitetura MSC, TypeScript. Além do paradgma de POO e principios SOLID. Estudando Python e raspagem de dados no momento.
+Me dedico quase que diariamente ao desenvolvimento web, aprimorando minhas habilidades em diversas tecnologias e metodologias ágeis. Estou sempre em busca de conhecimento e sou apaixonado por tecnologia, inovação e resolução de problemas. Estudando LLM's e suas aplicações na programação e no Mercado Tech.
+
+Meus conhecimentos técnicos em desenvolvimento FullStack incluem:
+
+-🖥 FrontEnd: React, TypeScript, JavaScript, Redux, Context-Api, Html, Css, TailWind, testes em Jest/VITEST, MSW, TDD, Material UI, Styled-components, ShadCn, criação de componentes a partir do Figma, integração com APIs Rest (ReactQuery, Axios) e GraphQL (apoloClient);
+-📋Backend: Python, Django+RestApi, arquitetura MVT; Node.js, TypeScript, API REST, Docker, testes de integração, arquitetura MSC; Geral, POO com principios SOLID;
+- 🗂 Banco de dados: Azure SQL Database, MySQL e PostgreSQL, NoSQL/MongoDB. ORMs: Sequelize, TypeORM e Django ORM;
+- 📈 Metodologias Ágeis: Scrum, Kambam. Jira e MicrosoftPlanner; Já atuei na Liderança e Gestão de times, criação e acompanhamento de Sprints e Tasks;
+- ✒️ Git Flow: GitHub e GitLab; Revisão de Códigos e aprovação de PR's;
+- 🔌 Dev-ops: Ecossistema AWS, Kubernets e operações basicas (rodar Cronjobs, Escalar Pods, Debugar erros nas API em prod);
+
+Quero impactar positivimente a vida das pessoas com o meu trabalho.
 
 Quero impactar positivimente a vida das pessoas com o meu trabalho.</p>
 
