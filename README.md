@@ -19,8 +19,6 @@ Meus conhecimentos técnicos em desenvolvimento FullStack incluem:
 - ✒️ Git Flow: GitHub e GitLab; Revisão de Códigos e aprovação de PR's;
 - 🔌 Dev-ops: Ecossistema AWS, Kubernets e operações basicas (rodar Cronjobs, Escalar Pods, Debugar erros nas API em prod);
 
-Quero impactar positivimente a vida das pessoas com o meu trabalho.
-
 Quero impactar positivimente a vida das pessoas com o meu trabalho.</p>
 
 ### 🛠 Stacks:
