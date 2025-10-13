@@ -1,10 +1,10 @@
 ### Um pouco sobre mim: :robot:
 
-### Atenção recrutadores, os projetos do meu gitHub estão desatualizados e são antigos! Assim que possível (tempo 😫) trarei projetos atuais que refletem minhas habilidades. Confira mais sobre minha jornada e experiencia no meu <a href="https://www.linkedin.com/in/heitor-catarino-trindade/">LinkedIn</a>.
-
-<p>Desenvolvedor Web FullStack certificado pela TRYBE. Técnico em Tecnologia da Informação formado pelo CEFET-MG. 
+<p>Arquiteto de Software Pós-Graduado pela Faculdade Anahguera. Desenvolvedor Web FullStack certificado pela TRYBE. Técnico em Tecnologia da Informação formado pelo CEFET-MG. 
 
 Apaixonado por Tecnologia.
+
+### Atenção recrutadores, os projetos do meu gitHub estão desatualizados e são antigos! Assim que possível (tempo 😫) trarei projetos atuais que refletem minhas habilidades. Confira mais sobre minha jornada e experiencia no meu <a href="https://www.linkedin.com/in/heitor-catarino-trindade/">LinkedIn</a>.
 
 Sou desenvolvedor Web FullStack. Já trabalhei no Frontend com React com TypeScript/JavaScript, MicroFrontends com Module Federation, criação de Design Systems. Tenho o ATOMIC DESIGN como patern favorito. Realizei integrações com APIs REST e GraphQL, criação de componentes a partir do Figma, estilização com CSS, SASS, Styled-Components e TailWind. E, no Backend, já trabalhei com Django e Python, além de Node.Js com Express. Banco de Dados Relacionais com Azure e Postgres. Consumo de filas com RabbitMQ. Sempre com metodologias ágeis (Scrum), utilizando ferramentas como Jira e Microsoft Planner. Criação de documentação com StoryBook e Confluence. Além de versionamento de código utilizando Git Flow tanto com GitHub quanto o GitLab. Desempenhei também o papel de revisor de código e aprovador de PR’s.
 
