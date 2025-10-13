@@ -1,6 +1,6 @@
 ### Um pouco sobre mim: :robot:
 
-### Atenção recrutadores, esse perfil está desatualizado, confira mais sobre minha jornada e experiencia no linkedin.
+### Atenção recrutadores, os projetos do meu gitHub estão desatualizados e são antigos! Assim que possível (tempo 😫) trarei projetos atuais que refletem minhas habilidades. Confira mais sobre minha jornada e experiencia no meu <a href="https://www.linkedin.com/in/heitor-catarino-trindade/">LinkedIn</a>.
 
 <p>Desenvolvedor Web FullStack certificado pela TRYBE. Técnico em Tecnologia da Informação formado pelo CEFET-MG. 
 
